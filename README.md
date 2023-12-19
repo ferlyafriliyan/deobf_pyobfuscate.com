@@ -1,15 +1,14 @@
-###  *Mardis :*
-<h3>Marshal decompiler++ for python2.7🔥</h3>
+###  *AES DECOMPILER :*
+<h3>Pycryptodome AES decompiler python3.xx</h3>
 
-- ###  *Mardis :*
-<h2> A great Marshal decompiler python2.7</h2>
+- ###  *https://pyobfuscate.com/pyd :*
+<h2> A great Pycryptodome AES decompiler python3.xx</h2>
 
 - ### *Installations :*
 ````bash
-$ apt install python2 git
-$ git clone https://github.com/ferlyafriliyan/mardis
-$ cd mardis
-$ python2 -m pip install xdis==5.0.11
-$ python2 -m pip install uncompyle6==3.7.4
-$ python2 setup.py install
+$ pkg install python git
+$ git clone https://github.com/ferlyafriliyan/deobf_pyobfuscate.com
+$ cd deobf_pyobfuscate.com
+$ python -m pip install pycryptodome
+$ python run.py
 ````
